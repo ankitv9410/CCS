@@ -1,0 +1,29 @@
+HTML
+[
+ <html>
+     <head>
+         <link rel="stylesheet" type="text/css" href="resume.css">
+     </head>
+    <body>
+    <div>
+    <h1 id="h">Heading</h1>
+    <p id="h">This is a Paragraph</p>
+    </div>
+    <hr>
+    <div>
+        <h1 id="ha">Heading 2</h1>
+        <p id="ha">This is a Second Paragraph</p>        
+    </div>
+    </body>
+ </html>
+ ]
+ 
+ CSS
+ [
+ #h{
+    color:blue;
+}
+#ha{
+    color:red;
+}
+ ]
