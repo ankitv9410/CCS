@@ -1,0 +1,29 @@
+  
+HTML
+[
+<html>
+     <head>
+         <link rel="stylesheet" type="text/css" href="resume.css">
+     </head>
+    <body>
+    <div>
+    <h1 class="head">Heading</h1>
+    <p class="para">This is a Paragraph</p>
+    <hr>
+    <h1 class="head">Heading 2</h1>
+    <p class="para">This is a Paragraph 2</p>
+    </div>
+    </body>
+ </html>
+ ]
+
+CSS
+[
+{
+.head{
+color:blue;
+}
+.para{
+color:red;
+}
+]
