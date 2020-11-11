@@ -1,0 +1,9 @@
+Use of any statement in css then we can use !important tag....
+
+
+#color!important{
+background-color:red;
+}
+#color{
+background-color:powderblue;
+}
